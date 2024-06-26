@@ -3,6 +3,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-color: #f4f4f9; /* Light background for the body */
 }
 
 header, footer {
@@ -30,8 +31,16 @@ nav ul li {
 }
 
 nav ul li a {
-  color: #282c34;
+  color: white; /* Changed to white for better contrast */
   text-decoration: none;
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  color: #282c34; /* Dark color on hover */
+  background-color: white;
+  border-radius: 4px;
+  padding: 0.5rem;
 }
 
 main {
@@ -41,6 +50,7 @@ main {
 form {
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 form div {
@@ -53,13 +63,15 @@ form label {
 
 form input, form select {
   padding: 0.5rem;
+  width: 80%;
 }
 
 button {
-  padding: 0.5rem;
+  padding: 0.5rem 1rem;
   background-color: #61dafb;
   border: none;
   cursor: pointer;
+  width: 85%; /* Improved button width for better appearance */
 }
 
 button:hover {
@@ -73,4 +85,20 @@ ul {
 
 ul li {
   padding: 0.5rem 0;
+  text-align: center;
+}
+
+/* Additional styling for responsiveness */
+@media (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+  }
+  
+  nav ul li {
+    margin-bottom: 1rem;
+  }
+
+  form input, form select, button {
+    width: 90%;
+  }
 }
