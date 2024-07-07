@@ -1,13 +1,25 @@
 {
   "files": {
     "main.css": "/budget-quest/static/css/main.95c6fed5.css",
-    "main.js": "/budget-quest/static/js/main.d7af5a96.js",
+    "main.js": "/budget-quest/static/js/main.b65e58d6.js",
+    "static/js/479.bc0cb7ad.chunk.js": "/budget-quest/static/js/479.bc0cb7ad.chunk.js",
+    "static/js/771.800fc931.chunk.js": "/budget-quest/static/js/771.800fc931.chunk.js",
+    "static/js/66.61e95f35.chunk.js": "/budget-quest/static/js/66.61e95f35.chunk.js",
+    "static/js/315.cc7860d1.chunk.js": "/budget-quest/static/js/315.cc7860d1.chunk.js",
+    "static/js/38.87bb8420.chunk.js": "/budget-quest/static/js/38.87bb8420.chunk.js",
+    "static/js/642.1cd85392.chunk.js": "/budget-quest/static/js/642.1cd85392.chunk.js",
     "index.html": "/budget-quest/index.html",
     "main.95c6fed5.css.map": "/budget-quest/static/css/main.95c6fed5.css.map",
-    "main.d7af5a96.js.map": "/budget-quest/static/js/main.d7af5a96.js.map"
+    "main.b65e58d6.js.map": "/budget-quest/static/js/main.b65e58d6.js.map",
+    "479.bc0cb7ad.chunk.js.map": "/budget-quest/static/js/479.bc0cb7ad.chunk.js.map",
+    "771.800fc931.chunk.js.map": "/budget-quest/static/js/771.800fc931.chunk.js.map",
+    "66.61e95f35.chunk.js.map": "/budget-quest/static/js/66.61e95f35.chunk.js.map",
+    "315.cc7860d1.chunk.js.map": "/budget-quest/static/js/315.cc7860d1.chunk.js.map",
+    "38.87bb8420.chunk.js.map": "/budget-quest/static/js/38.87bb8420.chunk.js.map",
+    "642.1cd85392.chunk.js.map": "/budget-quest/static/js/642.1cd85392.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95c6fed5.css",
-    "static/js/main.d7af5a96.js"
+    "static/js/main.b65e58d6.js"
   ]
 }

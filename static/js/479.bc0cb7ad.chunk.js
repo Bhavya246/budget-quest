@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbudget_quest=self.webpackChunkbudget_quest||[]).push([[479],{7479:(e,s,t)=>{t.r(s),t.d(s,{default:()=>d});t(5043);var u=t(579);const d=()=>(0,u.jsxs)("div",{children:[(0,u.jsx)("h2",{children:"Dashboard"}),(0,u.jsx)("p",{children:"Welcome to BudgetQuest!"})]})}}]);
+//# sourceMappingURL=479.bc0cb7ad.chunk.js.map
