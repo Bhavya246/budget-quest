@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #f4f4f9; /* Light background for the body */
+  background-color: #f4f4f9;
 }
 
 header, footer {
@@ -31,13 +31,13 @@ nav ul li {
 }
 
 nav ul li a {
-  color: white; /* Changed to white for better contrast */
+  color: white;
   text-decoration: none;
   font-weight: bold;
 }
 
 nav ul li a:hover {
-  color: #282c34; /* Dark color on hover */
+  color: #282c34;
   background-color: white;
   border-radius: 4px;
   padding: 0.5rem;
@@ -71,7 +71,7 @@ button {
   background-color: #61dafb;
   border: none;
   cursor: pointer;
-  width: 85%; /* Improved button width for better appearance */
+  width: 85%;
 }
 
 button:hover {
@@ -88,7 +88,6 @@ ul li {
   text-align: center;
 }
 
-/* Additional styling for responsiveness */
 @media (max-width: 768px) {
   nav ul {
     flex-direction: column;
