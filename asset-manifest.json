@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/budget-quest/static/css/main.95c6fed5.css",
+    "main.js": "/budget-quest/static/js/main.d7af5a96.js",
+    "index.html": "/budget-quest/index.html",
+    "main.95c6fed5.css.map": "/budget-quest/static/css/main.95c6fed5.css.map",
+    "main.d7af5a96.js.map": "/budget-quest/static/js/main.d7af5a96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95c6fed5.css",
+    "static/js/main.d7af5a96.js"
+  ]
+}
